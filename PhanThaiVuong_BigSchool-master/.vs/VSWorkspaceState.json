@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PhanThaiVuong_BigSchool-master",
-    "\\PhanThaiVuong_BigSchool-master\\PhanThaiVuong_BigSchool",
-    "\\PhanThaiVuong_BigSchool-master\\PhanThaiVuong_BigSchool\\App_Start",
-    "\\PhanThaiVuong_BigSchool-master\\PhanThaiVuong_BigSchool\\Content",
-    "\\PhanThaiVuong_BigSchool-master\\PhanThaiVuong_BigSchool\\Controllers"
+    "\\LeTongBa_BigSchool-master",
+    "\\LeTongBa_BigSchool-master\\LeTongBa_BigSchool"
   ],
-  "SelectedNode": "\\PhanThaiVuong_BigSchool-master\\PhanThaiVuong_BigSchool.sln",
+  "SelectedNode": "\\LeTongBa_BigSchool-master\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
