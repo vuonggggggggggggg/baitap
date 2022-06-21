@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PhanThaiVuong_BigSchool-master"
+    "\\PhanThaiVuong_BigSchool-master",
+    "\\PhanThaiVuong_BigSchool-master\\PhanThaiVuong_BigSchool",
+    "\\PhanThaiVuong_BigSchool-master\\PhanThaiVuong_BigSchool\\App_Start",
+    "\\PhanThaiVuong_BigSchool-master\\PhanThaiVuong_BigSchool\\Content",
+    "\\PhanThaiVuong_BigSchool-master\\PhanThaiVuong_BigSchool\\Controllers"
   ],
+  "SelectedNode": "\\PhanThaiVuong_BigSchool-master\\PhanThaiVuong_BigSchool.sln",
   "PreviewInSolutionExplorer": false
 }
